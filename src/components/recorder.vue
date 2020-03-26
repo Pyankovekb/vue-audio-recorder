@@ -236,6 +236,7 @@
               :record="record"
               :filename="filename"
               :headers="headers"
+              :blobName="blobName"
               :upload-url="uploadUrl"/>
         </div>
       </div>
